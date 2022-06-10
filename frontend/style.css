@@ -10,10 +10,10 @@ button{
     
     color: #FFEEDF;
     background-color: #1C5A4E;
+    border: none;
     width: 240px;
     height: 240px;
     border-radius: 50%;
     font-size: 200px;
     font-family: 'Montserrat', sans-serif
-    border: none
 }
