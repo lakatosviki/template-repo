@@ -2,8 +2,8 @@ body{
     background-color: #FFEEDF;
 }
 button{
-    position:  middle;
+    position:  relative;
     color: #FFEEDF;
     background-color: #1C5A4E;
-    padding: 240px * 240px;
+    
 }
