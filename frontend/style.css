@@ -1,5 +1,6 @@
 body{
     background-color: #FFEEDF;
+    text-align: center;
 }
 button{
     
@@ -9,5 +10,5 @@ button{
     height: 240px;
     border-radius: 50%;
     font-size: 200px;
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif
 }
