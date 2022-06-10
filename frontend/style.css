@@ -1,6 +1,3 @@
-button {
-    font-family: 'Inconsolata', monospace;
-    color: red;
-    background-color: blue;
-    padding: 35px;
+body{
+    background-color: #FFEEDF;
 }
