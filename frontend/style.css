@@ -2,8 +2,9 @@ body{
     background-color: #FFEEDF;
 }
 button{
-    size: 240px * 240px;
+    
     color: #FFEEDF;
     background-color: #1C5A4E;
-    
+    font-weight: 240px;
+    height: 240px;
 }
